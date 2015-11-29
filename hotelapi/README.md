@@ -64,6 +64,13 @@ hotelapi.rateLimit = 10000
 hotelapi.blockingDuration = 60000
 ```
 
+To test and run application 
+
+```
+activator test
+activator run
+```
+
 
 
 
